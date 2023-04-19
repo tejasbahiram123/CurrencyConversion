@@ -14,6 +14,7 @@
 	<name>FirstAppUsingIDE</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+//this is done by DEV
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
