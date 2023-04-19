@@ -14,12 +14,24 @@
 	<name>FirstAppUsingIDE</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
+
+
+//this is done by QA
+
+
 //this is done by DEV
+
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+
 //TEJAS
+
+
+//Bahiram  qa
+
 //bahiram dev
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
